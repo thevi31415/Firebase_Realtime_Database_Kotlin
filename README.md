@@ -23,5 +23,4 @@ buildscript {
     }
 }
 
-  id 'com.google.gms.google-services'
 ```
