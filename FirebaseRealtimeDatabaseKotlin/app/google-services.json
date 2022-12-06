@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "171756163305",
+    "project_id": "fir-1-8babe",
+    "storage_bucket": "fir-1-8babe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:171756163305:android:1c56446b31cd58dff62078",
+        "android_client_info": {
+          "package_name": "com.example.firebaserealtimedatabase_kotlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "171756163305-t13d872l42pdn19cq8ur67qu79abhde5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4xXSLYmSz0ABRjvXagsxMQDCRN5r1VuI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "171756163305-t13d872l42pdn19cq8ur67qu79abhde5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
