@@ -1,11 +1,11 @@
 # Firebase_Realtime_Database_Kotlin
-# Project
+### Project
 ```gradle
   id 'com.google.gms.google-services'
   implementation platform('com.google.firebase:firebase-bom:31.1.0')
   implementation 'com.google.firebase:firebase-database-ktx'
 ```
-# Model
+### Model
 ```gradle
 buildscript {
     repositories {
